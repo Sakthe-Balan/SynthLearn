@@ -36,7 +36,7 @@ Once you have your API key you can install it in your terminal like this:
 export OPENAI_API_KEY=[Your-API-key]
 ```
 
-=======
+
 ## SynthLearn-Generating Multiple-Choice Questions (MCQs) and Gamifying the PDF
 
 In addition to PDF question answering, our system also allows for the generation of multiple-choice questions (MCQs) or diretly question the pdf based on the content of the PDF document. You can select the difficulty level for the MCQs to suit your needs.
@@ -61,7 +61,7 @@ Feel free to explore this feature and gamify your PDF documents to make learning
 
 To get started with the project, follow these instructions:
 
-<<<<<<< HEAD
+
 
 To install:
 ``` sh
@@ -82,7 +82,7 @@ To run on docker
 docker build -t pdf-to-quizz .
 docker run -e OPENAI_API_KEY=[your-api-key] -p 8501:8501 pdf-to-quizz
 ```
-=======
+
 1. **Clone the repository:**
    
 
