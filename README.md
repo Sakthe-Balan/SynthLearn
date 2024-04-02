@@ -1,5 +1,5 @@
 
-# PDF to Quiz
+# SynthLearn(PDF to Quiz)
 
 ## Important
 
