@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PDF to Quiz
 
 ## Important
@@ -57,7 +57,7 @@ Feel free to explore this feature and gamify your PDF documents to make learning
 
 
 ## Getting Started
->>>>>>> 3bb4c9f95b7dfac1e905088d85d53eb36ebbba5c
+
 
 To get started with the project, follow these instructions:
 
@@ -114,4 +114,3 @@ You can then start asking questions related to your PDF document.
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
->>>>>>> 3bb4c9f95b7dfac1e905088d85d53eb36ebbba5c
