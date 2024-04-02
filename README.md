@@ -12,10 +12,6 @@ This leverage Langchain library to abstract the LLM (Large Language Model) calls
 
 The UI is based on Streamlit
 
-Here is an exemple PDF (sorry in french but you can get the idea...)
-
-![PDF sample](img/PDF-sample.png)
-
 Will generate the following interractive quiz questions:
 
 ![PDF sample](img/quiz-reponse.png)
@@ -27,7 +23,7 @@ You need an OpenAI API key from https://platform.openai.com/account/api-keys
 
 Keep in mind this is not free BUT the with the usage of **gpt-3.5-turbo** it's not expensive at all unless you drop really big PDF (more than 100 pages).
 
-![Open AI key](img/OPENAI-KEY.png)
+
 
 Once you have your API key you can install it in your terminal like this:
 
